@@ -1,4 +1,4 @@
-img align="right" alt="GIF" src="[![gif](https://user-images.githubusercontent.com/78233904/188198227-f78663cb-ed69-4af5-b700-93ae5c543548.gif)" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" ![gif](https://user-images.githubusercontent.com/78233904/188198429-be77cf52-6668-464d-aa25-88bbd99ed60c.gif) width="500" height="320" />
 
 
 
