@@ -1,6 +1,6 @@
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/78233904/188205396-a5c13fce-8e92-4d67-b10f-f8c9b87e3192.gif" width="400" height="320" />
-[<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
 
+<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 
 
 <!--
