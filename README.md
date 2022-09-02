@@ -1,4 +1,5 @@
-<img align="right" alt="GIF" src="https://giphy.com/embed/11ZSwQNWba4YF2.gif" width="500" height="320" />
+<img align="right" alt="GIF" src="![gif](https://user-images.githubusercontent.com/78233904/188199772-8167ec12-3247-42ff-bca0-fa932733e4df.gif)" width="500" height="320" />
+
 
 
 
