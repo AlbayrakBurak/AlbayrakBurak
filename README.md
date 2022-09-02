@@ -1,4 +1,5 @@
-img align="right" alt="GIF" src="[https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true](https://gfycat.com/difficultlimpingbubblefish)" width="500" height="320" />
+img align="right" alt="GIF" src="[![gif](https://user-images.githubusercontent.com/78233904/188198227-f78663cb-ed69-4af5-b700-93ae5c543548.gif)" width="500" height="320" />
+
 
 
 <!--
