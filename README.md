@@ -1,4 +1,4 @@
-### Hi there 👋
+img align="right" alt="GIF" src="https://gfycat.com/difficultlimpingbubblefish-programming-coding" width="500" height="320" />
 
 <!--
 **AlbayrakBurak/AlbayrakBurak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
