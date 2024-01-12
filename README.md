@@ -4,7 +4,6 @@
 
 -Game Developer<br />
 -Web Developer<br />
--Mobile Deve...<br />
 
 
 ### 💻Development:
