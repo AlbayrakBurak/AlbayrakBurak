@@ -11,14 +11,14 @@ I'm a passionate software developer with experience in RPA, mobile, game, and we
 
 
 ### 💻Development:
-[<img align="left" alt="EpochX" width="80px" src="https://www.uipath.com/steam-agency/static/ui-new-logo-31a64a60efd11c82dfeacfd3dd290306.svg"/>][epochx]
+[<img align="left" alt="EpochX" width="26px" src="https://www.uipath.com/steam-agency/static/ui-new-logo-31a64a60efd11c82dfeacfd3dd290306.svg"/>][epochx]
 [<img align="left" alt="csharp" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg"/>][Cs]
 [<img align="left" alt="Unity" width="26px" src="https://i.redd.it/tu3gt6ysfxq71.png" />][unity]
 [<img align="left" alt="JavaScript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/640px-React-icon.svg.png"/>][ReactJS]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vsCode]
 [<img align="left" alt="Flutter" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-plain.svg"/>][flutter]
 [<img align="left" alt="Golang" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg"/>][golang]
-[<img align="left" alt="GraphQL" width="80px" src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain-wordmark.svg"/>][graphql]
+[<img align="left" alt="GraphQL" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain-wordmark.svg"/>][graphql]
 
 <br />
 
