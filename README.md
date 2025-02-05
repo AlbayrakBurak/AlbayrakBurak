@@ -1,8 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=albayrakburak&abbreviated=true" alt="albayrakburak" /> </p>
-I'm a passionate software developer with experience in RPA, mobile, game, and web development. Currently, I'm diving deeper into Golang and Flutter, with a strong background in C# and Unity. I aim to leverage my skills in various areas to solve complex problems and build innovative solutions. I'm always excited to learn and collaborate with others in the tech community.
-
-## Software Developer
-
+## Software Developer<br/>
+I am a software developer with experience in RPA, mobile, game, and web development. I am currently focusing on Golang and Flutter.
+<br/>
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/78233904/188205396-a5c13fce-8e92-4d67-b10f-f8c9b87e3192.gif" width="400" height="320" />
 -RPA Developer<br />
 -Mobil Developer<br />
