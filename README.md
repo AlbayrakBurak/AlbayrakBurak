@@ -18,7 +18,7 @@ I'm a passionate software developer with experience in RPA, mobile, game, and we
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vsCode]
 [<img align="left" alt="Flutter" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png"/>][flutter]
 [<img align="left" alt="Golang" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg"/>][golang]
-[<img align="left" alt="Hasura" width="26px" src="https://avatars.githubusercontent.com/u/31948782?s=200&v=4"/>][hasura]
+[<img align="left" alt="Hasura" width="26px" src="[https://avatars.githubusercontent.com/u/31948782?s=200&v=4](https://hasura.io/)"/>][hasura]
 [<img align="left" alt="GraphQL" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/1f/GraphQL_Logo.svg"/>][graphql]
 
 <br />
