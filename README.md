@@ -48,9 +48,3 @@
 [angular]: https://angularjs.org/
 [react]: https://react.dev/
 [OracleSQL]: https://www.oracle.com/database/sqldeveloper/
-
-
-
-
-
-githubu güncelleyeyim dedim de eksik gedik var mı
