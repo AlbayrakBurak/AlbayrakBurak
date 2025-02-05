@@ -1,8 +1,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=albayrakburak&abbreviated=true" alt="albayrakburak" /> </p>
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/78233904/188205396-a5c13fce-8e92-4d67-b10f-f8c9b87e3192.gif" width="400" height="320" />
+
 ## Software Developer<br/>
 I am a software developer with experience in RPA, mobile, game, and web development. I am currently focusing on Golang and Flutter.
 <br/>
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/78233904/188205396-a5c13fce-8e92-4d67-b10f-f8c9b87e3192.gif" width="400" height="320" />
 -RPA Developer<br />
 -Mobil Developer<br />
 -Game Developer<br />
