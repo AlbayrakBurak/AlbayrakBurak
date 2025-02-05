@@ -3,6 +3,7 @@
 
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/78233904/188205396-a5c13fce-8e92-4d67-b10f-f8c9b87e3192.gif" width="400" height="320" />
 -RPA Developer<br />
+-Mobil Developer<br />
 -Game Developer<br />
 -Web Developer<br />
 
