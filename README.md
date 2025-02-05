@@ -16,10 +16,9 @@ I'm a passionate software developer with experience in RPA, mobile, game, and we
 [<img align="left" alt="Unity" width="26px" src="https://i.redd.it/tu3gt6ysfxq71.png" />][unity]
 [<img align="left" alt="JavaScript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/640px-React-icon.svg.png"/>][ReactJS]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vsCode]
-[<img align="left" alt="Flutter" width="80px" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>][flutter]
-[<img align="left" alt="Golang" width="80px" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>][golang]
-[<img align="left" alt="Hasura" width="80px" src="https://img.shields.io/badge/Hasura-1EB4D4?style=for-the-badge&logo=hasura&logoColor=white"/>][hasura]
-[<img align="left" alt="GraphQL" width="80px" src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>][graphql]
+[<img align="left" alt="Flutter" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-plain.svg"/>][flutter]
+[<img align="left" alt="Golang" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg"/>][golang]
+[<img align="left" alt="GraphQL" width="80px" src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain-wordmark.svg"/>][graphql]
 
 <br />
 
@@ -27,8 +26,8 @@ I'm a passionate software developer with experience in RPA, mobile, game, and we
 
 [<img align="left" alt="mongoDB" width="26px" src="https://w7.pngwing.com/pngs/241/983/png-transparent-mongodb-nosql-database-computer-icons-others-leaf-grass-fruit-thumbnail.png" />][mongoDB]
 [<img align="left" alt="oracleSQL" width="26px" src="https://upload.wikimedia.org/wikipedia/en/thumb/6/68/Oracle_SQL_Developer_logo.svg/800px-Oracle_SQL_Developer_logo.svg.png"/>][OracleSQL]
-[<img align="left" alt="PostgreSQL" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg"/>][postgresql]
-[<img align="left" alt="Firebase" width="26px" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/>][firebase]
+[<img align="left" alt="PostgreSQL" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg"/>][postgresql]
+[<img align="left" alt="Firebase" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg"/>][firebase]
 
 <br />
 
@@ -61,7 +60,6 @@ I'm a passionate software developer with experience in RPA, mobile, game, and we
 [OracleSQL]: https://www.oracle.com/database/sqldeveloper/
 [flutter]: https://flutter.dev/
 [golang]: https://golang.org/
-[hasura]: https://hasura.io/
 [graphql]: https://graphql.org/
 [epochx]: https://epochtechnology.co/
 [postgresql]: https://www.postgresql.org/
