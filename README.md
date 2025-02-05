@@ -11,7 +11,7 @@ I'm a passionate software developer with experience in RPA, mobile, game, and we
 
 
 ### 💻Development:
-[<img align="left" alt="EpochX" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/OpenRPA_logo.svg/120px-OpenRPA_logo.svg.png"/>][epochx]
+[<img align="left" alt="EpochX" width="26px" src="/steam-agency/static/ui-new-logo-31a64a60efd11c82dfeacfd3dd290306.svg"/>][epochx]
 [<img align="left" alt="csharp" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg"/>][Cs]
 [<img align="left" alt="Unity" width="26px" src="https://i.redd.it/tu3gt6ysfxq71.png" />][unity]
 [<img align="left" alt="JavaScript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/640px-React-icon.svg.png"/>][ReactJS]
