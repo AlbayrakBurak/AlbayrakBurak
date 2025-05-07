@@ -3,7 +3,7 @@
 
 ## Software Developer<br/>
 I am a software developer experienced in RPA, desktop, game, and web development. 
-I focus on building efficient and scalable applications using C#, .NET, Java Spring Boot, and modern frontend frameworks.
+<br />I focus on building efficient and scalable applications using C#, .NET, Java Spring Boot, and modern frontend frameworks.
 
 - RPA Developer
 - Mobile Developer
