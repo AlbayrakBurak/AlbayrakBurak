@@ -2,7 +2,7 @@
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/78233904/188205396-a5c13fce-8e92-4d67-b10f-f8c9b87e3192.gif" width="400" height="320" />
 
 ## Software Developer<br/>
-I am a software developer experienced in RPA, desktop, game, and web development. I focus on building efficient and scalable applications using C#, .NET, Java Spring Boot, and modern frontend frameworks.
+I am a software developer experienced in RPA, desktop, game, and web development. I focus on building efficient and scalable applications using C#, .NET, Java Spring Boot, Golang, and modern frontend frameworks.
 
 - RPA Developer
 - Mobile Developer
