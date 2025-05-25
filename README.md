@@ -11,7 +11,7 @@ I am a software developer experienced in RPA, desktop, game, and web development
 
 
 ### 💻Development:
-[<img align="left" alt="EpochX" width="26px" src="https://www.uipath.com/steam-agency/static/ui-new-logo-31a64a60efd11c82dfeacfd3dd290306.svg"/>][epochx]
+[<img align="left" alt="EpochX" width="26px" src="https://companieslogo.com/img/orig/PATH-4f96bcbf.png?t=1720244493"/>][epochx]
 [<img align="left" alt="csharp" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg"/>][Cs]
 [<img align="left" alt="Unity" width="26px" src="https://i.redd.it/tu3gt6ysfxq71.png" />][unity]
 [<img align="left" alt="JavaScript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/640px-React-icon.svg.png"/>][ReactJS]
