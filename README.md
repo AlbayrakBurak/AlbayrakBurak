@@ -18,13 +18,12 @@ I am a software developer experienced in RPA, desktop, game, and web development
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vsCode]
 [<img align="left" alt="Flutter" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-plain.svg"/>][flutter]
 [<img align="left" alt="Golang" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg"/>][golang]
-[<img align="left" alt="GraphQL" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain-wordmark.svg"/>][graphql]
 
 <br />
 
 ### 💻Database:
 
-[<img align="left" alt="mongoDB" width="26px" src="https://w7.pngwing.com/pngs/241/983/png-transparent-mongodb-nosql-database-computer-icons-others-leaf-grass-fruit-thumbnail.png" />][mongoDB]
+[<img align="left" alt="mongoDB" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" />][mongoDB]
 [<img align="left" alt="oracleSQL" width="26px" src="https://upload.wikimedia.org/wikipedia/en/thumb/6/68/Oracle_SQL_Developer_logo.svg/800px-Oracle_SQL_Developer_logo.svg.png"/>][OracleSQL]
 [<img align="left" alt="PostgreSQL" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg"/>][postgresql]
 [<img align="left" alt="Firebase" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg"/>][firebase]
@@ -58,7 +57,6 @@ I am a software developer experienced in RPA, desktop, game, and web development
 [angular]: https://angularjs.org/
 [react]: https://react.dev/
 [OracleSQL]: https://www.oracle.com/database/sqldeveloper/
-[flutter]: https://flutter.dev/
 [golang]: https://golang.org/
 [graphql]: https://graphql.org/
 [epochx]: https://epochtechnology.co/
