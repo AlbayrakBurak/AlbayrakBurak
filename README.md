@@ -10,28 +10,21 @@ I am passionate about learning new technologies, contributing to R&D projects, a
 
 ### Full Stack Development
 - **Frontend:** React, JavaScript, HTML, CSS  
-- **Backend:** Spring Boot, ASP.NET Core, .NET, some Python  
+- **Backend:** Java Spring Boot, ASP.NET Core, .NET, some Python  
 - **Desktop:** WPF, WinForms  
-- **Mobile:** Flutter , Unity 
+- **Mobile:** Flutter, Unity 
 
 ### RPA & QA
 - UiPath Certified  
 - Junior & Senior QA (Selenium)  
 - Analyzing and optimizing robot processes
 
-### 💻Development:
-[<img align="left" alt="EpochX" width="26px" src="https://companieslogo.com/img/orig/PATH-4f96bcbf.png?t=1720244493"/>][epochx]
-[<img align="left" alt="csharp" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg"/>][Cs]
-[<img align="left" alt="Unity" width="26px" src="https://i.redd.it/tu3gt6ysfxq71.png" />][unity]
-[<img align="left" alt="JavaScript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/640px-React-icon.svg.png"/>][ReactJS]
-[<img align="left" alt="Java" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" />][java]
-[<img align="left" alt="Flutter" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-plain.svg"/>][flutter]
-[<img align="left" alt="Golang" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg"/>][golang]
 
 <br />
 
 ### 💻Database:
 
+[<img align="left" alt="mongoDB" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" />][mongoDB]
 [<img align="left" alt="mongoDB" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" />][mongoDB]
 [<img align="left" alt="oracleSQL" width="26px" src="https://upload.wikimedia.org/wikipedia/en/thumb/6/68/Oracle_SQL_Developer_logo.svg/800px-Oracle_SQL_Developer_logo.svg.png"/>][OracleSQL]
 [<img align="left" alt="PostgreSQL" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg"/>][postgresql]
