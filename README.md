@@ -3,7 +3,6 @@
 
 ## Software Developer<br/>
 I am a versatile **Software Developer** with experience in RPA, desktop, mobile, game, and web development. I focus on building efficient and scalable applications using **C#, .NET, Java Spring Boot, React, Flutter, and modern frontend frameworks**.  
-
 I am passionate about learning new technologies, contributing to R&D projects, and exploring AI integrations to build intelligent solutions.
 
 ## 💻 Technical Skills
@@ -18,20 +17,14 @@ I am passionate about learning new technologies, contributing to R&D projects, a
 - UiPath Certified  
 - Junior & Senior QA (Selenium)  
 - Analyzing and optimizing robot processes
-
-
 <br />
-
 ### 💻Database:
-
 [<img align="left" alt="mongoDB" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" />][mongoDB]
 [<img align="left" alt="mongoDB" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" />][mongoDB]
 [<img align="left" alt="oracleSQL" width="26px" src="https://upload.wikimedia.org/wikipedia/en/thumb/6/68/Oracle_SQL_Developer_logo.svg/800px-Oracle_SQL_Developer_logo.svg.png"/>][OracleSQL]
 [<img align="left" alt="PostgreSQL" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg"/>][postgresql]
 [<img align="left" alt="Firebase" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg"/>][firebase]
-
 <br />
-
 ### 💻Design-Graphics:
 [<img align="left" alt="Blender" width="26px" src="https://w7.pngwing.com/pngs/322/576/png-transparent-blender-3d-computer-graphics-texture-mapping-computer-software-animation-blender-3d-computer-graphics-text-orange-thumbnail.png" />][Blender]
 <br />
