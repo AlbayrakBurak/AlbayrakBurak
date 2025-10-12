@@ -2,13 +2,22 @@
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/78233904/188205396-a5c13fce-8e92-4d67-b10f-f8c9b87e3192.gif" width="400" height="320" />
 
 ## Software Developer<br/>
-I am a software developer experienced in RPA, desktop, game, and web development. I focus on building efficient and scalable applications using C#, .NET, Java Spring Boot, Golang, and modern frontend frameworks.
+I am a versatile **Software Developer** with experience in RPA, desktop, mobile, game, and web development. I focus on building efficient and scalable applications using **C#, .NET, Java Spring Boot, React, Flutter, and modern frontend frameworks**.  
 
-- RPA Developer
-- Mobile Developer
-- Game Developer
-- Web Developer
+I am passionate about learning new technologies, contributing to R&D projects, and exploring AI integrations to build intelligent solutions.
 
+## 💻 Technical Skills
+
+### Full Stack Development
+- **Frontend:** React, JavaScript, HTML, CSS  
+- **Backend:** Spring Boot, ASP.NET Core, .NET, some Python  
+- **Desktop:** WPF, WinForms  
+- **Mobile:** Flutter , Unity 
+
+### RPA & QA
+- UiPath Certified  
+- Junior & Senior QA (Selenium)  
+- Analyzing and optimizing robot processes
 
 ### 💻Development:
 [<img align="left" alt="EpochX" width="26px" src="https://companieslogo.com/img/orig/PATH-4f96bcbf.png?t=1720244493"/>][epochx]
