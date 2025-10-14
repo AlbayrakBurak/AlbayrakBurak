@@ -29,8 +29,9 @@ I am passionate about learning new technologies, contributing to R&D projects, a
 [<img align="left" alt="Blender" width="26px" src="https://w7.pngwing.com/pngs/322/576/png-transparent-blender-3d-computer-graphics-texture-mapping-computer-software-animation-blender-3d-computer-graphics-text-orange-thumbnail.png" />][Blender]
 <br />
 ## 📩 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/burak-albayrak-74684b19b/)
-[<img align="left" height="24" width="24" src="https://w7.pngwing.com/pngs/132/138/png-transparent-gmail-icon-gmail-computer-icons-email-google-contacts-google-account-gmail-blue-angle-text-thumbnail.png" />][gmail]
+<br />
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/burak-albayrak-74684b19b/)
+  [<img align="left" height="24" width="24" src="https://w7.pngwing.com/pngs/132/138/png-transparent-gmail-icon-gmail-computer-icons-email-google-contacts-google-account-gmail-blue-angle-text-thumbnail.png" />][gmail]
 <br />
 <br />
 ## GitHub Analytics 📊
