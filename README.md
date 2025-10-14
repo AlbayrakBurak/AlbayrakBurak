@@ -19,21 +19,21 @@ I am passionate about learning new technologies, contributing to R&D projects, a
 - Analyzing and optimizing robot processes
 <br />
 ### 💻Database:
-[<img align="left" alt="mongoDB" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" />][mongoDB]
+[<img align="left" alt="mongoDB" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" />][mySQL]
 [<img align="left" alt="mongoDB" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" />][mongoDB]
 [<img align="left" alt="oracleSQL" width="26px" src="https://upload.wikimedia.org/wikipedia/en/thumb/6/68/Oracle_SQL_Developer_logo.svg/800px-Oracle_SQL_Developer_logo.svg.png"/>][OracleSQL]
 [<img align="left" alt="PostgreSQL" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg"/>][postgresql]
 [<img align="left" alt="Firebase" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg"/>][firebase]
 <br />
-### 💻Design-Graphics:
+## 💻Design-Graphics:
 [<img align="left" alt="Blender" width="26px" src="https://w7.pngwing.com/pngs/322/576/png-transparent-blender-3d-computer-graphics-texture-mapping-computer-software-animation-blender-3d-computer-graphics-text-orange-thumbnail.png" />][Blender]
 <br />
-### 📩 Connect with me:
+## 📩 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/burak-albayrak-74684b19b/)
 [<img align="left" height="24" width="24" src="https://w7.pngwing.com/pngs/132/138/png-transparent-gmail-icon-gmail-computer-icons-email-google-contacts-google-account-gmail-blue-angle-text-thumbnail.png" />][gmail]
 <br />
 <br />
-### GitHub Analytics 📊
+## GitHub Analytics 📊
 <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=AlbayrakBurak&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true" alt="mukireus"/>
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AlbayrakBurak&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" alt="mukireus"/>
 <br />
@@ -57,3 +57,5 @@ I am passionate about learning new technologies, contributing to R&D projects, a
 [epochx]: https://epochtechnology.co/
 [postgresql]: https://www.postgresql.org/
 [firebase]: https://firebase.google.com/
+[mySQL]: https://www.mysql.com/
+
