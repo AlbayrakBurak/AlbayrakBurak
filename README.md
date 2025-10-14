@@ -25,6 +25,7 @@ I am passionate about learning new technologies, contributing to R&D projects, a
 [<img align="left" alt="PostgreSQL" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg"/>][postgresql]
 [<img align="left" alt="Firebase" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg"/>][firebase]
 <br />
+<br />
 ## 💻Design-Graphics:
 [<img align="left" alt="Blender" width="26px" src="https://w7.pngwing.com/pngs/322/576/png-transparent-blender-3d-computer-graphics-texture-mapping-computer-software-animation-blender-3d-computer-graphics-text-orange-thumbnail.png" />][Blender]
 <br />
