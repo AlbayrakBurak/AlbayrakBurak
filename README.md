@@ -52,27 +52,6 @@ I don’t just write code — I design systems, optimize processes and build app
 
 ---
 
-## 🧪 Projects
-
-### 🔮 FalaFal (Live Product)
-
-* AI-powered astrology & fortune telling mobile application
-* Designed for **global audience (multi-language support)**
-* Focused on **scalable backend and content generation systems**
-* Combines **AI interpretation + user interaction patterns**
-
-📱 https://play.google.com/store/apps/details?id=com.veyscode.falafal&hl=tr
-
----
-
-### 🧠 AI & Automation Focus
-
-* Chat analysis & behavioral insight systems
-* AI-based summarization and pattern detection
-* RPA systems for process automation and monitoring
-
----
-
 ## 🎨 Design & Tools
 
 [<img align="left" width="26px" src="https://w7.pngwing.com/pngs/322/576/png-transparent-blender-3d-computer-graphics-texture-mapping-computer-software-animation-blender-3d-computer-graphics-text-orange-thumbnail.png" />][Blender] <br/><br/>
