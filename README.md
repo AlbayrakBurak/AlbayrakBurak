@@ -22,9 +22,9 @@ I don’t just write code — I design systems, optimize processes and build app
 * 🌍 Building products with **global scalability and multi-language support**
 * 🏗️ Prefer **owning infrastructure and backend logic** instead of relying heavily on third-party services
 * 🚀 Focused on **execution, shipping products and continuous improvement**
+* 🌍 Currently scaling: **[FalaFal - Astrology & Fortune Telling](https://play.google.com/store/apps/details?id=com.veyscode.falafal)**
 
 ---
-
 ## 💻 Technical Skills
 
 ### Full Stack Development
